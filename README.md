@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🤔 Olá, sou o Bernardo Rodrigues do Carmo
-- 🎓 Estudando Programação de Jogos Digitais na ETEC Jornalista Roberto Marinho.
+- 🎓 Estudando Programação de Jogos Digitais na Etec Jornalista Roberto Marinho.
 - 🌱 Explorando novas tecnologias e desenvolvendo habilidades em programação.
 
 
